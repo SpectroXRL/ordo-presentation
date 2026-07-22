@@ -1,0 +1,6 @@
+@ordo_presentation.api_HostAddress = http://localhost:5198
+
+GET {{ordo_presentation.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
